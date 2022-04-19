@@ -1,0 +1,10 @@
+{
+  "name": "bildsit",
+  "version": "0.0.1",
+  "description": "tiny website bilda",
+  "bin": {
+    "bildsit": "src/build.mjs"
+  },
+  "author": "kaneel",
+  "license": "ISC"
+}
